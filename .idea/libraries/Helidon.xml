@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Helidon">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/Helidon" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Desktop/Helidon" recursive="false" />
+  </library>
+</component>
