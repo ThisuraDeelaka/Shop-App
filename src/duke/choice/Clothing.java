@@ -12,7 +12,7 @@ public class Clothing implements Comparable<Clothing>{
 
     private double price;
     private String size = "M";
-    public static final double MIN_PRICE = 10;
+    public static final double MIN_PRICE = 15;
     public static final double TAX_RATE = 0.2;
 
 //    void print_details(String des, double p, String s){
