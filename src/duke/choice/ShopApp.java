@@ -15,7 +15,7 @@ public class ShopApp {
         double total = 0;
         int measurement = 3;
 
-        System.out.println("Minimum value = $" + Clothing.MIN_PRICE);
+        System.out.println("Minimum value = $1" + Clothing.MIN_PRICE);
         Customer c1 = new Customer("Pinky", measurement);
 //        c1.setName("Pinky");
 //        c1.setSize(measurement);
