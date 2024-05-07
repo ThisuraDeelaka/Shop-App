@@ -11,7 +11,7 @@ public class ShopApp {
 
     public static void main(String[] arg){
 
-        double tax = 0.2;
+        double tax = 0.3;
         double total = 0;
         int measurement = 3;
 
