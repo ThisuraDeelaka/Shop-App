@@ -11,8 +11,8 @@ public class ShopApp {
 
     public static void main(String[] arg){
 
-//        double tax = 0.2;
-//        double total = 0;
+        double tax = 0.3;
+        double total = 0;
         int measurement = 3;
 
         System.out.println("Minimum value = $" + Clothing.MIN_PRICE);
